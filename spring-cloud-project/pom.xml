@@ -21,6 +21,9 @@
         <module>spring-cloud-client-app</module>
         <module>spring-cloud-stream-rabbit-server</module>
         <module>spring-cloud-stream-rabbit-client</module>
+        <module>spring-cloud-event-bus-client</module>
+        <module>spring-cloud-event-bus-server</module>
+        <module>spring-cloud-stream-binder-rocketmq</module>
     </modules>
     <properties>
         <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
